@@ -162,15 +162,3 @@ alu32 u_alu (
 
 Declare and drive `operand_a`, `operand_b`, and `operation`
 in the surrounding module.
-
-## Hardware scope
-
-This repository provides the ALU core, not a board-specific FPGA
-project. Physical deployment additionally requires a top-level
-wrapper, device selection, pin constraints, and timing constraints.
-
-No FPGA resource utilization or timing performance is claimed.
-
-## License
-
-MIT. See `LICENSE`.
