@@ -1,0 +1,13 @@
+# Generated simulation files
+build/
+*.vcd
+*.fst
+*.vvp
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
